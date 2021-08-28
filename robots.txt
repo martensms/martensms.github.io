@@ -1,0 +1,9 @@
+
+User-Agent: *
+Disallow: /
+
+User-Agent: Googlebot
+Allow: /index.html
+
+Sitemap: /sitemap.xml
+
